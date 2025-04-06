@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 👂 My name is **Vitalii**
+* 👂 My name is **Vitaliy**
 * 🔭 I’m currently working on projects using **Angular**, **Blazor**, **MAUI**, and **.NET**
 * 🌱 I’m currently learning advanced topics in **.NET** and **Azure**
 * 🤝 I’m looking to collaborate on **Open Source**, especially in the areas of **AI** and **developer tooling**
