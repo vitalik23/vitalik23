@@ -2,7 +2,7 @@
 
 * 👂 My name is **Vitalii**
 * 🔭 I’m currently working on projects using **Angular**, **Blazor**, **MAUI**, and **.NET**
-* 🌱 I’m currently learning advanced topics in **.NET**, **memory management**, and **async programming**
+* 🌱 I’m currently learning advanced topics in **.NET** and **Azure**
 * 🤝 I’m looking to collaborate on **Open Source**, especially in the areas of **AI** and **developer tooling**
 * 💬 Ask me about **.NET**, **frontend frameworks**, **accessibility**, or **tech strategy**
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vitaliy-basanets/)
